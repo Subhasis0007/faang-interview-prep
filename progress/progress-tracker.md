@@ -1,0 +1,523 @@
+# Progress Tracker (Pre-filled from Guide)
+
+> Tick items as you solve them. Add links to your solution folders.
+
+
+## Arrays & Strings
+
+- [ ] [Two Sum](dsa/arrays-strings/0001-two-sum/)
+- [ ] [Contains Duplicate](dsa/arrays-strings/0002-contains-duplicate/)
+- [ ] [Valid Anagram](dsa/arrays-strings/0003-valid-anagram/)
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/)
+- [ ] [Valid Palindrome](dsa/arrays-strings/0005-valid-palindrome/)
+- [ ] [Majority Element](dsa/arrays-strings/0006-majority-element/)
+- [ ] [Merge Sorted Array](dsa/arrays-strings/0007-merge-sorted-array/)
+- [ ] [Remove Duplicates from Sorted Array](dsa/arrays-strings/0008-remove-duplicates-from-sorted-array/)
+- [ ] [Move Zeroes](dsa/arrays-strings/0009-move-zeroes/)
+- [ ] [Longest Common Prefix](dsa/arrays-strings/0010-longest-common-prefix/)
+- [ ] Isomorphic Strings
+- [ ] Palindrome Number
+- [ ] Single Number (XOR trick)
+- [ ] Happy Number (cycle detection)
+- [ ] Excel Sheet Column Title
+- [ ] Valid Triangle Number
+- [ ] [Majority Element](dsa/arrays-strings/0006-majority-element/) II
+- [ ] Find the Duplicate Number
+- [ ] Group Anagrams
+- [ ] Product of Array Except Self
+- [ ] Rotate Image
+- [ ] Set Matrix Zeroes
+- [ ] Longest Substring Without Repeating Characters
+- [ ] 3Sum
+- [ ] Container With Most Water
+- [ ] Subarray Sum Equals K
+- [ ] Maximum Product Subarray
+- [ ] Minimum Window Substring
+- [ ] Merge Intervals
+- [ ] Longest Consecutive Sequence
+- [ ] Insert Interval
+- [ ] Spiral Matrix
+- [ ] Rotate Array
+- [ ] First Missing Positive
+- [ ] [Majority Element](dsa/arrays-strings/0006-majority-element/) (with count)
+- [ ] Word Pattern
+- [ ] Encode and Decode Strings
+- [ ] Increasing Triplet Subsequence
+- [ ] Next Permutation
+- [ ] Sort Colors
+- [ ] Trapping Rain Water
+- [ ] Median of Two Sorted Arrays
+- [ ] Regular Expression Matching (DP variant)
+- [ ] Wildcard Matching (DP variant)
+- [ ] Largest Rectangle in Histogram
+- [ ] Maximal Rectangle
+- [ ] Alien Dictionary
+- [ ] Minimum Interval to Include Each Query
+- [ ] Stream of Characters
+- [ ] Text Justification
+
+## Linked Lists
+
+- [ ] Reverse Linked List
+- [ ] Merge Two Sorted Lists
+- [ ] Linked List Cycle Detection
+- [ ] Palindrome Linked List
+- [ ] Remove Duplicates from Sorted List
+- [ ] Intersection of Two Linked Lists
+- [ ] Middle of Linked List
+- [ ] Delete Node in a Linked List
+- [ ] Reorder List
+- [ ] Remove Nth Node From End
+- [ ] Copy List with Random Pointer
+- [ ] Add Two Numbers
+- [ ] Sort List
+- [ ] Rotate List
+- [ ] Partition List
+- [ ] Remove Linked List Elements
+- [ ] Swap Nodes in Pairs
+- [ ] Odd Even Linked List
+- [ ] LRU Cache
+- [ ] Flatten a Multilevel Doubly Linked List
+- [ ] All O(1) Data Structure
+- [ ] Design Circular Queue
+- [ ] Design Deque
+- [ ] Merge K Sorted Lists
+- [ ] Reverse Nodes in K-Group
+- [ ] LRU Cache (advanced)
+- [ ] Design Skip List
+- [ ] Minimum Window Subsequence
+
+## Binary Search
+
+- [ ] Binary Search
+- [ ] Guess Number Higher or Lower
+- [ ] First Bad Version
+- [ ] Valid Perfect Square
+- [ ] Sqrt(x)
+- [ ] Search Insert Position
+- [ ] Arranging Coins
+- [ ] Koko Eating Bananas
+- [ ] Search a 2D Matrix
+- [ ] Search a 2D Matrix II
+- [ ] Find Minimum in Rotated Sorted Array
+- [ ] Search in Rotated Sorted Array
+- [ ] Capacity to Ship Packages Within D Days
+- [ ] Minimum Days to Make M Bouquets
+- [ ] Magnetic Force Between Two Balls
+- [ ] Kth Smallest Element in BST
+- [ ] Time Based Key-Value Store
+- [ ] Find K Closest Elements
+- [ ] Find Peak Element
+- [ ] Split Array Largest Sum
+- [ ] Minimum Skips to Arrange Courses
+- [ ] Maximum Value at Given Index
+- [ ] Find Duplicate Number (cycle in array)
+- [ ] Missing Number
+- [ ] Count Complete Tree Nodes
+- [ ] Single Element in Sorted Array
+- [ ] Median of Two Sorted Arrays
+- [ ] Smallest Rectangle Enclosing Black Pixels
+- [ ] The Skyline Problem
+- [ ] Count of Range Sum
+- [ ] Vertical Order Traversal
+- [ ] Number of Subsequences Satisfying Given Sum Condition
+- [ ] Minimum Space Wasted From Packaging
+- [ ] Swim in Rising Water
+- [ ] Super Egg Drop
+
+## Trees & BSTs
+
+- [ ] Invert Binary Tree
+- [ ] Maximum Depth of Binary Tree
+- [ ] Balanced Binary Tree
+- [ ] Same Tree
+- [ ] Symmetric Tree
+- [ ] Subtree of Another Tree
+- [ ] Diameter of Binary Tree
+- [ ] Minimum Depth of Binary Tree
+- [ ] Path Sum (single target)
+- [ ] Sum of Left Leaves
+- [ ] Binary Tree Tilt
+- [ ] Univalued Binary Tree
+- [ ] Binary Tree Level Order Traversal
+- [ ] Binary Tree Vertical Order Traversal
+- [ ] Binary Tree Right Side View
+- [ ] Binary Tree Zigzag Level Order Traversal
+- [ ] Count Good Nodes in Binary Tree
+- [ ] Validate Binary Search Tree
+- [ ] Lowest Common Ancestor (BST & BT)
+- [ ] Construct Binary Tree from Preorder & Inorder
+- [ ] Construct Binary Tree from Inorder & Postorder
+- [ ] Serialize and Deserialize Binary Tree
+- [ ] Flatten Binary Tree to Linked List
+- [ ] Path Sum II
+- [ ] Path Sum III (complex)
+- [ ] Binary Search Tree Iterator
+- [ ] Kth Smallest Element in a BST
+- [ ] Inorder Successor in BST
+- [ ] Trim a Binary Search Tree
+- [ ] Binary Tree Maximum Path Sum (partial)
+- [ ] Closest Binary Search Tree Value
+- [ ] Verify Preorder Sequence in BST
+- [ ] Recover Binary Search Tree
+- [ ] Delete Node in a BST
+- [ ] Largest BST Subtree
+- [ ] All Nodes Distance K in Binary Tree
+- [ ] Convert BST to Greater Sum Tree
+- [ ] Validate BST
+- [ ] Binary Tree Right Side View (complex)
+- [ ] Distribute Coins in Binary Tree
+- [ ] Binary Tree Maximum Path Sum
+- [ ] Vertical Order Traversal (complex)
+- [ ] Binary Tree Cameras
+- [ ] Insufficient Nodes in Root to Leaf Paths
+- [ ] Delete Nodes And Return Forest
+- [ ] Smallest Subtree with all the Deepest Nodes
+- [ ] Longest Path With Different Adjacent Characters
+- [ ] Maximum Sum of an Hourglass
+- [ ] Design Binary Search Tree (low-level design)
+- [ ] Binary Tree to Linked List
+- [ ] Serialize and Deserialize N-ary Tree
+- [ ] Serialization of N-ary Tree
+- [ ] Maximum Path Sum in Any Array
+- [ ] House Robber III
+
+## Graphs
+
+- [ ] Number of Islands (basic)
+- [ ] Flood Fill
+- [ ] Clone Graph (simple)
+- [ ] Valid Tree (basic check)
+- [ ] Find the Town Judge
+- [ ] Find the Celebrity
+- [ ] Course Schedule (basic check)
+- [ ] Number of Connected Components
+- [ ] Accounts Merge (basic)
+- [ ] Employees Importance
+- [ ] Number of Islands
+- [ ] Max Area of Island
+- [ ] Clone Graph (complex)
+- [ ] Pacific Atlantic Water Flow
+- [ ] Course Schedule (topological sort)
+- [ ] Course Schedule II (topological sort)
+- [ ] Rotting Oranges (BFS)
+- [ ] Walls and Gates (BFS)
+- [ ] Word Ladder (BFS)
+- [ ] Sequence Reconstruction
+- [ ] Redundant Connection
+- [ ] Graph Valid Tree
+- [ ] Accounts Merge
+- [ ] Shortest Path in Binary Matrix
+- [ ] Network Delay Time (Dijkstra)
+- [ ] Time to Inform All Employees
+- [ ] Critical Connections in a Network
+- [ ] Bipartite Graph
+- [ ] Is Graph Bipartite?
+- [ ] Evaluate Division (DFS)
+- [ ] Reconstruct Itinerary
+- [ ] Minimum Height Trees
+- [ ] Surrounded Regions (Union-Find)
+- [ ] Friend Circles (Union-Find)
+- [ ] Number of Enclaves
+- [ ] Island Perimeter
+- [ ] All Nodes Distance K in Binary Tree
+- [ ] Bus Routes (BFS)
+- [ ] Minimum Knight Moves
+- [ ] Optimal Account Balancing
+- [ ] Couples Holding Hands
+- [ ] Robot Room Cleaner
+- [ ] Jump Game IV
+- [ ] Reachable Nodes With Restrictions
+- [ ] Word Ladder II
+- [ ] Cheapest Flights Within K Stops (Bellman-Ford)
+- [ ] Alien Dictionary
+- [ ] Accounts Merge (complex scenarios)
+- [ ] Build a Matrix With Conditions
+- [ ] Shortest Path with Alternating Colors
+- [ ] Minimum Height Trees (advanced)
+- [ ] Critical Connections in a Network (Tarjan)
+- [ ] Most Stones Removed with Same Row or Column
+- [ ] Making A Large Island
+- [ ] Optimal Account Balancing (complex)
+- [ ] Number of Ways to Reconstruct a Tree
+- [ ] Smallest Subtree With all Deepest Nodes
+- [ ] Path With Maximum Gold
+- [ ] As Far from Land as Possible
+
+## Heaps & Priority Queues
+
+- [ ] Last Stone Weight
+- [ ] Min Cost to Connect All Points (Kruskal)
+- [ ] Kth Largest Element in Stream
+- [ ] Top K Frequent Elements
+- [ ] Reorganize String (basic)
+- [ ] Maximum Performance of a Team (basic)
+- [ ] Take Gifts From the Richest Pile
+- [ ] The k Strongest Values in an Array
+- [ ] Kth Largest Element in an Array
+- [ ] Task Scheduler
+- [ ] Design Twitter
+- [ ] Top K Frequent Words
+- [ ] Rearrange String k Distance Apart
+- [ ] Sliding Window Maximum
+- [ ] Employee Free Time
+- [ ] Maximum Performance of a Team
+- [ ] Minimum Cost to Connect Sticks
+- [ ] Furthest Building You Can Reach
+- [ ] Max Profit in Job Scheduling
+- [ ] Reorganize String (complex)
+- [ ] IPO
+- [ ] Smallest Range Covering Elements
+- [ ] K Closest Points to Origin
+- [ ] Find Median from Data Stream
+- [ ] Sliding Window Median
+- [ ] Reconstruct Itinerary (with heap)
+- [ ] Minimum Cost to Hire K Workers
+- [ ] K-th Smallest Prime Fraction
+
+## Dynamic Programming
+
+- [ ] Climbing Stairs
+- [ ] House Robber (basic)
+- [ ] Min Cost Climbing Stairs
+- [ ] Fibonacci Number
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/)
+- [ ] Decode Ways (basic)
+- [ ] Unique Paths
+- [ ] House Robber
+- [ ] House Robber II (circular)
+- [ ] Coin Change
+- [ ] Coin Change II (combinations)
+- [ ] Longest Increasing Subsequence (LIS)
+- [ ] Jump Game
+- [ ] Jump Game II
+- [ ] Word Break
+- [ ] Perfect Squares
+- [ ] Combination Sum IV
+- [ ] Delete and Earn
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/) with Cooldown
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/) IV (with K transactions)
+- [ ] Decode Ways II (complex characters)
+- [ ] Stone Game
+- [ ] Paint House III
+- [ ] Stone Game VII
+- [ ] Maximum Product Subarray (revisit with DP)
+- [ ] Pascal's Triangle
+- [ ] Unique Paths II
+- [ ] Longest Common Subsequence (LCS)
+- [ ] Edit Distance (classic)
+- [ ] Longest Palindromic Subsequence
+- [ ] Range Sum Query 2D
+- [ ] House Robber III
+- [ ] Regular Expression Matching (partial)
+- [ ] Wildcard Matching (partial)
+- [ ] Distinct Subsequences
+- [ ] Palindrome Partitioning II
+- [ ] Best Team With No Conflicts
+- [ ] Number of Dice Rolls With Target Sum
+- [ ] Champagne Tower
+- [ ] Minimum Path Sum
+- [ ] Maximal Square
+- [ ] Count Square Submatrices With All Ones
+- [ ] Minimum Path Sum (with obstacles)
+- [ ] Largest Sum of Averages
+- [ ] Cherry Pickup
+- [ ] Largest Square in Matrix
+- [ ] Interleaving String
+- [ ] Number of Ways to Decorate Decorations
+- [ ] Minimum Number of Operations to Make Array Equal
+- [ ] Burst Balloons (Google favorite - 9/10 difficulty)
+- [ ] Remove Boxes
+- [ ] Minimum Cost to Merge Stones
+- [ ] Minimum Removal to Make Valid Parentheses
+- [ ] Guess Number Higher or Lower II
+- [ ] Zuma Game
+- [ ] Video Stitching
+- [ ] Partition Array Into Two Arrays With Equal Sum
+- [ ] Minimum Cost to Split String
+- [ ] Palindromic Substrings
+- [ ] Target Sum (with bitmask variant)
+- [ ] Shortest Path Visiting All Nodes
+- [ ] Minimum Cost to Visit All Cities
+- [ ] Steiner Tree in Graph
+- [ ] Find Chromatic Number of Graph
+- [ ] Traveling Salesman Problem
+- [ ] Assign Cookies to Kids (with constraints)
+- [ ] Maximize Distance to Closest Person
+- [ ] 0/1 Knapsack (classic)
+- [ ] Unbounded Knapsack
+- [ ] Partition Equal Subset Sum
+- [ ] Target Sum (as knapsack)
+- [ ] Coin Change (unbounded)
+- [ ] Coin Change II (combination)
+- [ ] Counting Subset Sum With Given Difference
+- [ ] Split Array Into Subarrays With Maximum Sum
+- [ ] Minimize the Difference of Sums
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/) II
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/) III
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/) IV
+- [ ] [Best Time to Buy and Sell Stock](dsa/arrays-strings/0004-best-time-to-buy-and-sell-stock/) with Transaction Fee
+- [ ] Maximum Profit in Job Scheduling
+- [ ] Maximize Profit With Cooldown
+- [ ] **Burst Balloons** - 9/10 difficulty
+- [ ] **Regular Expression Matching** - 8/10 difficulty
+- [ ] **Wildcard Matching** - 8/10 difficulty
+- [ ] **Edit Distance** - 8/10 difficulty
+- [ ] **Palindrome Partitioning II** - 8/10 difficulty
+- [ ] **Minimum Cost to Merge Stones** - 8/10 difficulty
+- [ ] **Cherry Pickup** - 8/10 difficulty
+- [ ] **Number of Dice Rolls With Target Sum** - 7/10 difficulty
+
+## Backtracking
+
+- [ ] Subsets (simple generation)
+- [ ] Permutations (basic)
+- [ ] Combinations
+- [ ] Pascal's Triangle
+- [ ] Letter Combinations of a Phone Number (basic)
+- [ ] Subsets II (with duplicates)
+- [ ] Combination Sum
+- [ ] Combination Sum II (with duplicates)
+- [ ] Combination Sum III
+- [ ] Permutations II
+- [ ] Word Search
+- [ ] Palindrome Partitioning
+- [ ] Letter Combinations of a Phone Number
+- [ ] Restore IP Addresses
+- [ ] Additive Number
+- [ ] Unique Morse Code Words
+- [ ] N-Queens (variant)
+- [ ] Sudoku Solver (variant)
+- [ ] Generate Parentheses
+- [ ] Remove Invalid Parentheses
+- [ ] Word Ladder II (backtracking variant)
+- [ ] Largest Number With K Swaps
+- [ ] Beautiful Arrangement
+- [ ] Beautiful Arrangement II
+- [ ] N-Queens
+- [ ] N-Queens II
+- [ ] Sudoku Solver
+- [ ] Word Ladder II
+- [ ] Word Search II (Trie + Backtracking)
+- [ ] Stickers to Spell Word
+- [ ] Expression Add Operators
+- [ ] Partition to K Equal Sum Subsets
+- [ ] Wildcard Matching (backtracking variant)
+- [ ] Remove Boxes (DP + backtracking)
+
+## Stack & Queue
+
+- [ ] Valid Parentheses
+- [ ] Min Stack
+- [ ] Implement Queue Using Stacks
+- [ ] Implement Stack Using Queues
+- [ ] Backspace String Compare
+- [ ] Baseball Game
+- [ ] Valid Parentheses String
+- [ ] Remove All Adjacent Duplicates
+- [ ] Check if Number is Valid
+- [ ] Simplify Path
+- [ ] Evaluate Reverse Polish Notation
+- [ ] Daily Temperatures
+- [ ] Car Fleet
+- [ ] Remove K Digits
+- [ ] Largest Rectangle in Histogram
+- [ ] Next Greater Element I
+- [ ] Next Greater Element II
+- [ ] Trapping Rain Water (stack variant)
+- [ ] Maximal Rectangle
+- [ ] Next Greater Node In Linked List
+- [ ] Smallest Subsequence of Distinct Characters
+- [ ] Online Stock Span
+- [ ] Sum of Subarray Minimums
+- [ ] Shortest Path in a Grid With Obstacles Elimination
+- [ ] Ternary Expression Parser
+- [ ] Decode String
+- [ ] Final Prices With Special Discount
+- [ ] Largest Rectangle in Histogram (complex)
+- [ ] Trapping Rain Water II
+- [ ] Remove Boxes (DP + stack)
+- [ ] Escape the Ghosts
+
+## Additional Patterns
+
+- [ ] Jump Game
+- [ ] Jump Game II
+- [ ] Gas Station
+- [ ] Assign Cookies
+- [ ] Minimum Number of Arrows to Burst Balloons
+- [ ] Meeting Rooms
+- [ ] Interval Scheduling Maximization
+- [ ] Activity Selection Problem
+- [ ] Single Number
+- [ ] Single Number II
+- [ ] Single Number III
+- [ ] Power of Two
+- [ ] Bitwise AND of Numbers Range
+- [ ] Number of 1 Bits
+- [ ] Missing Number
+- [ ] Hamming Distance
+- [ ] Implement Trie (Prefix Tree)
+- [ ] Search Word in Trie
+- [ ] Word Search II (Trie + Backtracking)
+- [ ] Autocomplete System
+- [ ] Replace Words
+- [ ] Implement Magic Dictionary
+- [ ] MapSum Pairs
+- [ ] Redundant Connection
+- [ ] Redundant Connection II
+- [ ] Number of Connected Components
+- [ ] Graph Valid Tree
+- [ ] Accounts Merge
+- [ ] Smallest String With Swaps
+- [ ] Most Stones Removed
+- [ ] Number of Islands II
+- [ ] Bricks Falling When Hit
+- [ ] **Arrays (50)** - Foundation
+- [ ] **Trees (55)** - Critical for Google
+- [ ] **Graphs (60)** - Critical for Google
+- [ ] **DP (70)** - Make or break
+- [ ] **Rest (115)** - Important but lower priority
+
+## System Design (Question Bank)
+
+- [ ] Design a URL Shortener
+- [ ] Design a Parking Lot
+- [ ] Design an ATM
+- [ ] Design a Rate Limiter
+- [ ] Design an Elevator System
+- [ ] Design Uber (Ride Hailing) - CRITICAL
+- [ ] Design Instagram (Photo Sharing)
+- [ ] Design Twitter (Microblogging)
+- [ ] Design YouTube (Video Streaming)
+- [ ] Design Airbnb (Booking)
+- [ ] Design Amazon E-commerce
+- [ ] Design Netflix (Video Streaming Service)
+- [ ] Design Facebook Newsfeed
+- [ ] Design Google Drive (File Sharing)
+- [ ] Design a Chat System (Messenger/Slack)
+- [ ] Design Distributed Cache (Redis/Memcached)
+- [ ] Design Google Search Engine
+- [ ] Design Amazon S3 (Object Storage)
+- [ ] Design Gmail (Email Service)
+- [ ] Design Trending Topics System
+- [ ] Design an Advertising System
+- [ ] Design Google Analytics
+- [ ] Design Message Queue (Kafka/RabbitMQ)
+- [ ] Design Recommendation Engine
+- [ ] Design Online Multiplayer Game
+- [ ] Design Stripe (Payment Processing)
+- [ ] Design CDN (Content Delivery Network)
+- [ ] Design Distributed Ledger (Blockchain)
+- [ ] Design Ad Click Aggregator
+- [ ] Design Rate Limiter (Advanced)
+- [ ] Design LeetCode (Judge Platform)
+- [ ] Design Amazon Lockers
+- [ ] Design Ticket Booking System
+- [ ] Design Feature Flag Service
+- [ ] Design Meeting Room Scheduler
+- [ ] Design Online Poker
+- [ ] Design Twitter Search
+- [ ] Design Stock Exchange
+- [ ] Design Collaborative Editor (Google Docs)
+- [ ] Design Comment System (Reddit/Hacker News)

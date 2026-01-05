@@ -25,5 +25,3 @@ You can also keep runnable code under `csharp/`:
 > Note: For online judges (LeetCode), prefer the LeetCode-style `public class Solution { ... }`.
 
 
-## Included solved set
-- Arrays & Strings (Easy #1–#10) already included with LeetCode signatures.
